@@ -46,14 +46,3 @@ knn2 <- knn(train, test, cl=datos[muestra,3], k=k2)
 
 #### Modelo logistic ####
 
-## pliss react
-
-## Prueba 22
-
-## Commit de giit
-
-<<<<<<< HEAD
-## keep workin
-=======
-## Commit git2
->>>>>>> 9edd083791b93d3f66add281217e06a12b466712
