@@ -46,4 +46,5 @@ knn2 <- knn(train, test, cl=datos[muestra,3], k=k2)
 
 #### Modelo logistic ####
 
+## pliss react
 
