@@ -48,3 +48,5 @@ knn2 <- knn(train, test, cl=datos[muestra,3], k=k2)
 
 ## pliss react
 
+## Prueba 22
+
