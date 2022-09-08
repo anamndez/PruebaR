@@ -51,3 +51,5 @@ knn2 <- knn(train, test, cl=datos[muestra,3], k=k2)
 ## Prueba 22
 
 ## Commit de giit
+
+## keep workin
